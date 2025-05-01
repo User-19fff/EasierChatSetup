@@ -1,0 +1,5 @@
+name: EasierChatSetup
+version: '1.0.0'
+main: net.coma112.easierchatsetup.EasierChatSetupPlugin
+api-version: '1.18'
+authors: [ coma112 ]
